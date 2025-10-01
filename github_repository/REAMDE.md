@@ -13,6 +13,21 @@ If you use this bibliography, please cite our article:
 
 > Firstauthor, I.N., et al. (20xx). Article title. /insert-journal-name/. https://doi.org/insert-doi
 
+
+```bibtex
+@article{firstauthor20xx,
+  title   = {Article title},
+  author  = {Firstauthor, I. N. and Secondauthor, A. B. and Spitschan, Manuel},
+  journal = {Journal Name},
+  year    = {20xx},
+  volume  = {xx},
+  number  = {x},
+  pages   = {xxx--xxx},
+  doi     = {10.xxx/xxx}
+}
+```
+
+
 ## Contact
 
 For any questions or comments, get in touch via email to Manuel Spitschan ([manuel.spitschan@tum.de](mailto:manuel.spitschan@tum.de)).
@@ -62,21 +77,6 @@ Consider adding subsections, e.g.:_
 
 _Describe example usage_
 
-## Citation
-
-
-```bibtex
-@article{firstauthor20xx,
-  title   = {Article title},
-  author  = {Firstauthor, I. N. and Secondauthor, A. B. and Spitschan, Manuel},
-  journal = {Journal Name},
-  year    = {20xx},
-  volume  = {xx},
-  number  = {x},
-  pages   = {xxx--xxx},
-  doi     = {10.xxx/xxx}
-}
-```
 
 ## Citation
 
