@@ -2,6 +2,7 @@
 
 # Supplementary Material for Firstauthor et al. (20xx), *Article title* ([10.xxx/xxx](https://doi.org/insert-doi))
 
+
 ## Description
 
 _Briefly describe objective, and - where appropriate - background._
@@ -83,7 +84,7 @@ _This section may replace [Full reference](#full-reference) section.
 For tools, you may want the repository to be cited instead of the article._
 
 
-# About & License
+## About & License
 
 _Specify licenses applying to your tools and (licensed) dependencies or material used._
 
